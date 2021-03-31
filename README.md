@@ -1,7 +1,7 @@
 # NOTAS
 Este es mi primer programa en node
 
-<div style="text-align: center">
+<div style="display:flex; justify-content:center">
 <img  style='border-radius: 50%'width="200" alt="portfolio_view" src="./assets/img/happy.gif">
 </div>
 
